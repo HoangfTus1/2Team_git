@@ -29,7 +29,7 @@ class GFG {
     }
     public static void main(String args[])
     {
-        int arr[] = { 64, 34, 25, 12, 22, 11, 90 };
+        int arr[] = { 24, 34, 25, 12, 22, 11, 90 };
         int n = arr.length;
         bubbleSort(arr, n);
         System.out.println("Sorted array: ");
