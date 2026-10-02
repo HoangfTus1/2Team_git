@@ -1,5 +1,5 @@
 import java.io.*;
- 
+
 class GFG {
 
     static void bubbleSort(int arr[], int n)
